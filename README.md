@@ -255,7 +255,7 @@ SERVER_PASS=your_strong_password</code></pre>
     <li><strong>Telegram Admin:</strong> <a href="https://t.me/ZeroDayEvil">@ZeroDayEvil</a></li>
     <li><strong>Telegram Чат:</strong> <a href="https://t.me/ZeroDyaTool_chat">@ZeroDyaTool_chat</a></li>
     <li><strong>Telegram Канал:</strong> <a href="https://t.me/ZeroDyaTool_channel">@ZeroDyaTool_channel</a></li>
-    <li><strong>Open Collective:</strong> <a href="https://opencollective.com/ZeroDayEvil">opencollective.com/ZeroDayEvil</a></li>
+    <li><strong>Open Collective:</strong> <a href="https://opencollective.com/ZeroDayEvil">ZeroDayEvil</a></li>
   </ul>
   <hr>
 
